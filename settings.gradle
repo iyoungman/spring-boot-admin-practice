@@ -1,0 +1,5 @@
+rootProject.name = 'admin-practice'
+
+include 'actuator'
+include 'server'
+include 'client'
